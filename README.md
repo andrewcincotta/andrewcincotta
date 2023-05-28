@@ -1,5 +1,3 @@
-### Hi There! My name is Andrew.
------
 # :postbox: About Me
 My name is Andrew Cincotta and I am a Computer Science and Business Administration student at Northeastern University!
 
@@ -51,6 +49,7 @@ Add Description
 # Links to Socials
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/andrewcincotta)
 
 # Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
