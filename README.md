@@ -10,7 +10,8 @@ public class Andrew
 }
 ```
 
-Add Description
+I am a third-year student at Northeastern University pursuing a degree in Computer Science and Business Administration with a concentration in Finance. 
+Currently, I am eager to get involved in learning opportunities in full-stack software development, FinTech, data analytics, or any business-related field that will enrich my professional development.
 
 ### :briefcase: Credentials
 
@@ -46,11 +47,7 @@ Add Description
   - Looking for an internship for Summer 2023
 -----
 
-# Links to Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewcincotta/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/andrewcincotta)
-
-# Tech Stack
+# Tech Stack / Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
