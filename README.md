@@ -1,16 +1,8 @@
 # :postbox: About Me
 My name is Andrew Cincotta and I am a Computer Science and Business Administration student at Northeastern University!
 
-```java
-public class Andrew
-{
-  private int age = 21;
-  public String[] traits = new String[] { "friendly", "tall", "nice" };
-  public String[] hobbies = new String[] { "Coding!", "Basketball", "Socializing", "Discrete Mathematics", "Chess" };
-}
-```
+I am a third-year student at Northeastern University pursuing a degree in Computer Science and Business Administration with a concentration in Finance.
 
-I am a third-year student at Northeastern University pursuing a degree in Computer Science and Business Administration with a concentration in Finance. 
 Currently, I am eager to get involved in learning opportunities in full-stack software development, FinTech, data analytics, or any business-related field that will enrich my professional development.
 
 ### :briefcase: Credentials
