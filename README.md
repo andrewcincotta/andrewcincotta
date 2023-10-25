@@ -58,7 +58,3 @@ Currently, I am eager to get involved in learning opportunities in full-stack so
 ![Microsoft Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
-
-# :bar_chart: Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewcincotta)](https://github.com/anuraghazra/github-readme-stats)
