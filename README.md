@@ -1,7 +1,7 @@
 # :postbox: About Me
 My name is Andrew Cincotta, and I am a third-year Computer Science and Business Administration student at Northeastern University, with a concentration in Finance.
 
-Currently, I am eager to get involved in learning opportunities in full-stack software development, FinTech, data analytics, or any business-related field that will enrich my professional development.
+Currently, I am eager to get involved in learning opportunities in full-stack software development, Buy-Side Finance, Fixed-Income, FinTech, data analytics, or any business-related field that will enrich my professional development.
 
 # Tech Stack / Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
