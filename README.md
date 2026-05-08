@@ -1,5 +1,5 @@
 # :postbox: About Me
-My name is Andrew Cincotta, and I am a third-year Computer Science and Business Administration student at Northeastern University, with a concentration in Finance.
+My name is Andrew Cincotta, and I am a fifth-year Computer Science and Business Administration student at Northeastern University, with a concentration in Finance.
 
 Currently, I am eager to get involved in learning opportunities in full-stack software development, Buy-Side Finance, Fixed-Income, FinTech, data analytics, or any business-related field that will enrich my professional development.
 
